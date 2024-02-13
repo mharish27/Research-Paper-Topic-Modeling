@@ -14,7 +14,9 @@ model can also be used for all the topic modeling downstream tasks accurately. T
 effective storing and retrievals of large file systems.
 
 <h2>screenshots of word clouds generated from research papers by the models</h2>
-![image](https://github.com/mharish27/Research-Paper-Topic-Modeling/assets/114908558/629920cb-8af0-45c5-af73-a75d68a7b8c1)
+
+![image](https://github.com/mharish27/Research-Paper-Topic-Modeling/assets/114908558/4603d3cf-85ea-46f2-9fb8-3591022d8ebe)
+
 
 ![image](https://github.com/mharish27/Research-Paper-Topic-Modeling/assets/114908558/19e17164-72d5-4586-bc1d-d4e3901ab7ec)
 
